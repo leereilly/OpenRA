@@ -505,7 +505,7 @@ HTNK:
 	Inherits@CLOAK: ^AcceptsCloakCrate
 	Inherits@AUTOTARGET: ^AutoTargetAllAssaultMove
 	Valued:
-		Cost: 1800
+		Cost: 1
 	Tooltip:
 		Name: Mammoth Tank
 	UpdatesPlayerStatistics:
